@@ -1,13 +1,13 @@
-# CIFAR10-Image Classification using CNN and ANN
 
-This repository contains code and resources for an image classification project that uses Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN) to classify images from the CIFAR-10 dataset. The models are trained to accurately recognize and categorize a variety of objects, offering insights into the world of computer vision and deep learning.
+# CIFAR-10 Image Classification Project
 
-Explore the code to see how we implemented CNN and ANN architectures, trained the models, and achieved impressive accuracy on the CIFAR-10 dataset.
+This project focuses on image classification using Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN) with the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes.
 
-🔧 **Key Features:**
-- Implementation of CNN and ANN models for image classification
-- Training, validation, and testing procedures
-- Evaluation metrics and visualizations of model performance
-- Usage of popular deep learning frameworks and libraries
+## Project Highlights:
+
+- Trained both CNN and ANN models to classify images into 10 distinct categories.
+- Achieved impressive accuracy with CNN due to its ability to capture spatial features in images.
+- Demonstrated the superior performance of CNN over ANN in image recognition tasks.
+- Detailed comparison and analysis of results to showcase the advantages of CNN for image classification.
 
 
